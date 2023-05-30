@@ -1,7 +1,5 @@
 # e_payment
-
-A new Flutter project.
-
+E-payment is a mobile application that easing receiving payments
 ## Getting Started
 
 This project is a starting point for a Flutter application.
