@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "631505308537",
+    "firebase_url": "https://receiving-payment-default-rtdb.firebaseio.com",
+    "project_id": "receiving-payment",
+    "storage_bucket": "receiving-payment.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:631505308537:android:d4b07a58e1c70c7b653da8",
+        "android_client_info": {
+          "package_name": "com.GipPrecones.ePayment.e_payment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "631505308537-8k5ie987nmumju3qf4h7or083nv7iars.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMGnqIYVIxrQcwz1m26fmnqKCPNNkVvHo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "631505308537-8k5ie987nmumju3qf4h7or083nv7iars.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "631505308537-kb254balgl7t1cosj91hdtg1cd7kg0qa.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.GipPrecones.receivingPayment"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
